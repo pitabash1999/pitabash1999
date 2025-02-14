@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pitabash1999
-- 👀 I’m interested in ...web and android development
+- 👀 I’m interested in ...web development
 
 
 <!---
